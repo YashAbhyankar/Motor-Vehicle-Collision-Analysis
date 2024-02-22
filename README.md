@@ -13,3 +13,7 @@ Features:
 2) Temporal Analysis: Examine trends and patterns in collision occurrences over time, such as monthly and hourly variations.
 3) Spatial Analysis: Identify hotspots of collisions on the map and analyze collision patterns across different boroughs and neighborhoods.
 4) Injury Analysis: Understand the dangerous streets by the number of injured people.
+
+
+The dashboard can be accessed once created in your web browser at http://localhost:8501.
+The app can also be deployed using a Streamlit community account.
