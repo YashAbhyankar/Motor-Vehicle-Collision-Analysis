@@ -16,5 +16,4 @@ Features:
 
 
 The dashboard can be accessed once created in your web browser at http://localhost:8501.
-My dashboard is available to view at the URL 
 The app can also be deployed using a Streamlit community account.
